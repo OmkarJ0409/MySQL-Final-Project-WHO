@@ -24,14 +24,6 @@ Each table is designed with **appropriate data types**, **primary keys**, and **
 
 ---
 
-## 📂 File Structure
-Phase_01/
-├── Phase_01.sql # SQL script to create all tables and relationships
-└── README.md # This file
-
-
----
-
 ## 🚀 How to Use
 
 1. Clone the repository:
